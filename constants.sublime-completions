@@ -1,0 +1,16 @@
+{
+  "scope": "source.php - variable.other.php",
+
+  "completions":
+  [
+    "php",
+
+    { "trigger": "RECAPTCHA_API_SERVER", "contents": "RECAPTCHA_API_SERVER" },
+    { "trigger": "RECAPTCHA_API_SECURE_SERVER", "contents": "RECAPTCHA_API_SECURE_SERVER" },
+    { "trigger": "RECAPTCHA_VERIFY_SERVER", "contents": "RECAPTCHA_VERIFY_SERVER" },
+    { "trigger": "RCP_PLUGIN_DIR", "contents": "RCP_PLUGIN_DIR" },
+    { "trigger": "RCP_PLUGIN_URL", "contents": "RCP_PLUGIN_URL" },
+    { "trigger": "RCP_PLUGIN_FILE", "contents": "RCP_PLUGIN_FILE" },
+    { "trigger": "RCP_PLUGIN_VERSION", "contents": "RCP_PLUGIN_VERSION" }
+  ]
+}
